@@ -32,5 +32,5 @@ Welcome! I'm Isis Jackson | <img align="center" height="18px" src="https://wakat
 - 🤔 I’m looking for help with learning C#
 - 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
 - 📫 How to reach me: https://www.linkedin.com/in/icnprincess
-- 😄 Pronouns: He/His
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love learning and working on projects
