@@ -1,11 +1,11 @@
 <div>
-Welcome! I'm Isis Jackson | <img align="center" height="18px" src="https://wakatime.com/badge/user/0a36a20b-468e-4608-ba3b-f27985a34f1b.svg"/>
+Welcome! I'm Isis Jackson | <img align="center" height="18px" src="https://wakatime.com/badge/user/2dd85d19-ebc6-4ed9-a9e2-d375e309911e.svg"/>
 </div>
 <br/>
 
 <div>
 <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=Icnprincess&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannara43&layout=compact&langs_count=8&theme=radical"/>
+<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icnprincess&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div style="display: inline_block; "><br>
