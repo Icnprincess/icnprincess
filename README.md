@@ -27,7 +27,7 @@ Welcome! I'm Isis Jackson | <img align="center" height="18px" src="https://wakat
 <hr/>
 
 - 🔭 I’m currently working on Interrogas
-- 🌱 I’m currently learning Postgres and Python
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with learning C#
 - 💬 Ask me about JS, REACT, .NET, SQL, C#, HTML, CSS
