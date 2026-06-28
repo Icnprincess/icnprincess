@@ -27,4 +27,3 @@ Welcome! I'm Isis Jackson | <img align="center" height="18px" src="https://wakat
 <hr/>
 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love learning and working on projects
